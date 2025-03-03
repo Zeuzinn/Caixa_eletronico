@@ -1,4 +1,4 @@
-# Caixa Eletrônico com Extrato em Python
+# Caixa Eletrônico
 
 Este é um programa Python que simula um caixa eletrônico com funcionalidades de saldo, saque, depósito e extrato. Ele também inclui validações para garantir que as transações sejam válidas e registra o histórico de saques e depósitos.
 
